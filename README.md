@@ -1,4 +1,3 @@
-#VIT RICKMATE
 VIT Rickmate – Campus Ride Sharing Platform
 Overview
 
